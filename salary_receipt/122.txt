@@ -1,0 +1,20 @@
+Company Name: XYZ
+
+Address: Xyz, Floor4
+.....................................
+Employee ID	: 12
+
+Generated On	: 03-04-2024
+
+.......................................
+Total Present	: 120
+Convinence	: 200
+Medical	: 3444
+PF	: 230
+.......................................
+
+Net Salary	: 17814
+
+This is a computer-generated slip, not requiring any signature
+          
+

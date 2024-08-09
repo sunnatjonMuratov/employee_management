@@ -1,0 +1,20 @@
+Snowil & co: XYZ
+
+Address: BVP, Vasai (w)
+..........................................................
+Employee ID		: 154
+
+Generated On	: 03-04-2024
+
+..........................................................
+Total Present : 50
+Convinence	  : 100
+Medical		  : 500
+PF		      : 250
+..........................................................
+
+Net Salary	: 11350
+
+This is a computer-generated slip, not requiring any signature
+          
+

@@ -115,6 +115,7 @@ class emplyee:
         title2 = Label(Frame2, text="Employee Salary Details", font=("times new roman", 20,), bg="lightgray",
                        fg="black").place(x=0, y=0, relwidth=1)
 
+        
         # .............row1...........
         lbl_Base = Label(Frame2, text="Base Pay", font=("times new roman", 18,), bg="white", fg="black").place(x=5,
                                                                                                                y=60)

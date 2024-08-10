@@ -91,9 +91,6 @@ CREATE TABLE `emp_salary` (
 INSERT INTO `emp_salary` (`e_id`, `Designation`, `Name`, `doj`, `Experience`, `Age`, `Proof`, `Gender`, `Email`, `Contact`, `Address`, `Base_Pay`, `Base_Days`, `Medical`, `Convinence`, `P_F`, `Net_Salary`) VALUES
 (12, 'manager', '', '', 0, 0, 0, '', '', 0, '', 0, 0, 0, 0, 0, 0);
 
---
--- Indexes for dumped tables
---
 
 --
 -- Indexes for table `emp`

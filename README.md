@@ -1,16 +1,23 @@
 ## Employee Management System with Tkinter GUI
 
 <img width="952" alt="image" src="https://github.com/Snowil-tuscano/Employee-Management-System/assets/103951058/764e03fc-d8ff-4e1f-85dd-5d288ecdc7d7">
+
 <br><br>
+
 <img width="953" alt="image" src="https://github.com/Snowil-tuscano/Employee-Management-System/assets/103951058/182cdb32-500a-4c07-a996-749954f3eb16">
+
 <br><br><br>
+
+
 <img width="655" alt="image" src="https://github.com/Snowil-tuscano/Employee-Management-System/assets/103951058/c8f79a29-c8ba-4148-965e-989bb830959c">
+
 <br>
 
 ## Employee Management System with Tkinter GUI
 
 **Description:**  
 This repository contains an Employee Management System built using Python's Tkinter library for creating graphical user interfaces (GUIs). The system provides a user-friendly interface for managing employee data efficiently.
+
 
 **Features:**
 - **Employee Information:** Easily manage employee details such as employee code, designation, name, date of birth, date of joining, experience, age, etc.
@@ -21,6 +28,7 @@ This repository contains an Employee Management System built using Python's Tkin
 - **Customization Options:** Customize the system according to organizational needs and preferences.
 - **Efficient Data Management:** Organize and manage employee data efficiently, facilitating easy retrieval and analysis.
 - **Salary Slip Storage:** Generate and store salary slips in TXT format for record-keeping and reference.
+
 
 **Used Packages:**
 - **tkinter:** Python's standard GUI (Graphical User Interface) package.

@@ -396,17 +396,6 @@ This is a computer-generated slip, not requiring any signature
         self.var_base_pay.set(''), self.var_present.set(''), self.var_medical.set(''),
         self.var_conv.set(''), self.var_p_f.set(''), self.var_net_sal.set('')
 
-    # def check_conn(self):
-    #   try:
-    #     conn = mysql.connector.connect( host="localhost",  user="root",  password="",  database="empoyee")
-    #     cur= conn.cursor()
-    #     cur.execute(" select * from  emp_salary")
-    #     rows = cur.fetchall()
-    #     print(rows)
-    #     print(" connection sucessfull")
-
-    #   except Exception as ex :
-    #     messagebox.showerror(f" error occured due  to {ex}")
     def employee_frame(self):
         self.root2 = Toplevel(self.root)
         self.root2.title("Employee Payroll Management System ")

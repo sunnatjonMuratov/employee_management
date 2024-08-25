@@ -204,7 +204,6 @@ class emplyee:
         btn_plus = Button(cal_frame, text="+", command=lambda: btn_click('+'),
                           font=("times new roman ", 15, "bold")).place(x=160, y=130, width=50, height=40)
 
-        # # .................calculator row 4 ...............
         btn0 = Button(cal_frame, text="0", command=lambda: btn_click(0), font=("times new roman ", 15, "bold")).place(
             x=2, y=174, width=50, height=40)
         btn_neg = Button(cal_frame, text="-", command=lambda: btn_click('-'),

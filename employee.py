@@ -45,7 +45,6 @@ class emplyee:
         lbl_code = Button(Frame1, text="Search", font=("times new roman", 14), command=self.search, bg="#f0f0f0",
                           fg="black", relief=SOLID).place(x=420, y=60)
 
-        # ................row2...........
         lbl_Designation = Label(Frame1, text="Designation", font=("times new roman", 18,), bg="white",
                                 fg="black").place(x=10, y=120)
         txt_Designation = Entry(Frame1, font=("times new roman", 18,), textvariable=self.var_desig, bg="white",

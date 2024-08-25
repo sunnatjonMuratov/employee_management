@@ -195,7 +195,6 @@ class emplyee:
         btn_mul = Button(cal_frame, text="*", command=lambda: btn_click('*'),
                          font=("times new roman ", 15, "bold")).place(x=160, y=86, width=50, height=40)
 
-        # # .................calculator row 3 ...............
         btn1 = Button(cal_frame, text="1", command=lambda: btn_click(1), font=("times new roman ", 15, "bold")).place(
             x=2, y=130, width=50, height=40)
         btn2 = Button(cal_frame, text="2", command=lambda: btn_click(2), font=("times new roman ", 15, "bold")).place(

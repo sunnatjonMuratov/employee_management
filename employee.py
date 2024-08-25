@@ -89,7 +89,7 @@ class emplyee:
                                                                                                             y=360)
         txt_con = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_contact, bg="white",
                         fg="black").place(x=510, y=360, width=200)
-        # ................row7...........
+
         lbl_Address = Label(Frame1, text="Address", font=("times new roman", 18), bg="white", fg="black").place(x=10,
                                                                                                                 y=420)
         self.txt_Address = Text(Frame1, font=("times new roman", 18), bg="white", fg="black", height=4, width=42)

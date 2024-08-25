@@ -186,7 +186,6 @@ class emplyee:
         btn_div = Button(cal_frame, text="/", command=lambda: btn_click('/'),
                          font=("times new roman ", 15, "bold")).place(x=160, y=42, width=50, height=40)
 
-        # .................calculator row 2 ...............
         btn4 = Button(cal_frame, text="4", command=lambda: btn_click(4), font=("times new roman ", 15, "bold")).place(
             x=2, y=86, width=50, height=40)
         btn5 = Button(cal_frame, text="5", command=lambda: btn_click(5), font=("times new roman ", 15, "bold")).place(

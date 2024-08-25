@@ -38,7 +38,6 @@ class emplyee:
         title2 = Label(Frame1, text="Employee Details", font=("times new roman", 20,), bg="lightgray",
                        fg="black").place(x=0, y=0, relwidth=1)
 
-        # ................row1...........
         lbl_code = Label(Frame1, text="Employee code", font=("times new roman", 18,), bg="white", fg="black").place(
             x=10, y=60)
         txt_code = Entry(Frame1, font=("times new roman", 18,), textvariable=self.var_code, bg="white",

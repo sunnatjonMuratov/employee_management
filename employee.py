@@ -81,7 +81,6 @@ class emplyee:
         txt_gend = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_gender, bg="white",
                          fg="black").place(x=510, y=300, width=200)
 
-        # ................row6...........
         lbl_Email = Label(Frame1, text="Email", font=("times new roman", 18), bg="white", fg="black").place(x=10, y=360)
         txt_Email = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_email, bg="white",
                           fg="black").place(x=200, y=360, width=200)

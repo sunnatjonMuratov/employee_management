@@ -121,7 +121,6 @@ class emplyee:
         txt_Present = Entry(Frame2, font=("times new roman", 18), textvariable=self.var_present, bg="white",
                             fg="black").place(x=370, y=60, width=90)
 
-        # .............row2...........
         lbl_Medical = Label(Frame2, text="Medical", font=("times new roman", 18,), bg="white", fg="black").place(x=5,
                                                                                                                  y=120)
         txt_Medical = Entry(Frame2, font=("times new roman", 18), textvariable=self.var_medical, bg="white",

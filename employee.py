@@ -177,7 +177,6 @@ class emplyee:
         title4 = Entry(cal_frame, text="Calculator", textvariable=self.var_txt, font=("times new roman", 20,),
                        bg="lightgray", fg="black").place(x=0, y=0, relwidth=1)
 
-        # .................calculator row 1 ...............
         btn7 = Button(cal_frame, text="7", command=lambda: btn_click(7), font=("times new roman ", 15, "bold")).place(
             x=2, y=42, width=50, height=40)
         btn8 = Button(cal_frame, text="8", command=lambda: btn_click(8), font=("times new roman ", 15, "bold")).place(

@@ -54,7 +54,6 @@ class emplyee:
         txt_dob = Entry(Frame1, font=("times new roman", 18,), textvariable=self.var_dob, bg="white", fg="black").place(
             x=510, y=120, width=200)
 
-        # ................row3...........
         lbl_name = Label(Frame1, text="Name", font=("times new roman", 18), bg="white", fg="black").place(x=10, y=180)
         txt_name = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_name, bg="white",
                          fg="black").place(x=200, y=180, width=200)

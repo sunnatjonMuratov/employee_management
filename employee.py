@@ -62,7 +62,6 @@ class emplyee:
         txt_doj = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_doj, bg="white", fg="black").place(
             x=510, y=180, width=200)
 
-        # ................row4...........
         lbl_Experience = Label(Frame1, text="Experience", font=("times new roman", 18), bg="white", fg="black").place(
             x=10, y=240)
         txt_Experience = Entry(Frame1, font=("times new roman", 18), bg="white", textvariable=self.var_exp,

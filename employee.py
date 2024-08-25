@@ -131,7 +131,6 @@ class emplyee:
         txt_Convinence = Entry(Frame2, font=("times new roman", 18), textvariable=self.var_conv, bg="white",
                                fg="black").place(x=370, y=120, width=90)
 
-        # .............row3...........
         lbl_PF = Label(Frame2, text="P.F", font=("times new roman", 18,), bg="white", fg="black").place(x=5, y=180)
         txt_PF = Entry(Frame2, font=("times new roman", 18), textvariable=self.var_p_f, bg="white", fg="black").place(
             x=120, y=180, width=90)

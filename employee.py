@@ -155,7 +155,6 @@ class emplyee:
         Frame3.place(x=770, y=370, width=490, height=270)
         Frame3.config(bg="white")
 
-        # .....calculator frame
         cal_frame = Frame(Frame3, bg="white", bd=2, relief=RIDGE)
         cal_frame.place(x=5, y=5, width=216, height=255)
 

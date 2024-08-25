@@ -71,7 +71,6 @@ class emplyee:
         txt_Age = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_age, bg="white", fg="black").place(
             x=510, y=240, width=200)
 
-        # ................row5...........
         lbl_Proof = Label(Frame1, text="Proof  ID", font=("times new roman", 18), bg="white", fg="black").place(x=10,
                                                                                                                 y=300)
         txt_Proof = Entry(Frame1, font=("times new roman", 18), textvariable=self.var_proof, bg="white",
